@@ -54,12 +54,6 @@
 <!-- ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes) -->
 <!-- ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux) -->
 
-<!-- ### Learning
-
-![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=Next.js)
-![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes) -->
-
 ### Projects
 
 <!-- [![](https://img.shields.io/badge/-🧬%20My%20Website-000)](https://github.com/adamalston/v2)
@@ -70,11 +64,17 @@
 [![](https://img.shields.io/badge/-🔊%20Voice%20Poker-000)](https://github.com/adamalston/Poker)
 [![](https://img.shields.io/badge/-🗺%20PokémonGo%20Map-000)](https://github.com/adamalston/PokemonGo-Map) -->
 
-### GitHub Stats
+<!-- ### Learning
+
+![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=Next.js)
+![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes) -->
+
+<!-- ### GitHub Stats
 
 <a>
 <img height="137px" align="center" src="https://github-readme-stats.vercel.app/api?username=arsy786&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=gruvbox" />
 </a>
 <a>
 <img height="137px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arsy786&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&theme=gruvbox" />
-</a>
+</a> -->
