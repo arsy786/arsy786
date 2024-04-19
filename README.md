@@ -5,10 +5,10 @@
 
 <!-- <h3 align="center">Full-Stack Developer powered by Continuous Improvement & Continuous Dedication</h3> -->
 
-<h3 align="center">Full-Stack Developer driven by Continuous Integration & Continuous Delivery</h3>
+<h2 align="center">Full-Stack Developer driven by Continuous Integration & Continuous Delivery</h2>
 
 <!-- <div style="text-align:center;"> -->
-<img height="300px" align="right" src=code-gif.gif />
+<img align="right" src=code-gif.gif />
 <!-- </div> -->
 
 ### About Me
@@ -19,10 +19,6 @@
 - 💬 `ping` me about **opportunities**
 - 📫 How to reach me **arsalaannaeem@hotmail.com**
 - 🔗 Connect with me on **[LinkedIn](https://linkedin.com/in/arsalaannaeem)**
-
-<!-- , nodejs, bash, spring, sql, mongo, -->
-<!-- html, css, , tailwind, mui, react, , RTK,  -->
-<!-- git, gitlab, docker, k8s, aws, jira, confluence  -->
 
 ### Backend
 
