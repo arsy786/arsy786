@@ -8,7 +8,7 @@
 <h2 align="center">Full-Stack Developer driven by Continuous Integration & Continuous Delivery</h2>
 
 <!-- <div style="text-align:center;"> -->
-<img align="right" src=code-gif.gif />
+<img align="right" width="200px" src=code-gif.gif />
 <!-- </div> -->
 
 ### About Me
