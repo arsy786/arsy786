@@ -1,15 +1,6 @@
-<!-- <h1 align="center">Hi 👋, I'm Arsalaan</h1>
-<h3 align="center">Full-Stack Developer Driven by Continuous Integration & Continuous Delivery</h3> -->
+<h3 align="center">Full-Stack Developer powered by Continuous Improvement & Consistent Dedication</h3>
 
-<!-- #### Full-Stack Developer powered by Continuous Improvement & Continuous Dedication -->
-
-<!-- <h3 align="center">Full-Stack Developer powered by Continuous Improvement & Continuous Dedication</h3> -->
-
-<h2 align="center">Full-Stack Developer driven by Continuous Integration & Continuous Delivery</h2>
-
-<!-- <div style="text-align:center;"> -->
-<img align="right" width="200px" src=code-gif.gif />
-<!-- </div> -->
+<!-- <img align="right" width="200px" src=code-gif.gif /> -->
 
 ### About Me
 
@@ -56,13 +47,13 @@
 
 ### Projects
 
-<!-- [![](https://img.shields.io/badge/-🧬%20My%20Website-000)](https://github.com/adamalston/v2)
-[![](https://img.shields.io/badge/-🦠%20COVID‑19%20Dashboard-000)](https://github.com/adamalston/COVID-19-Dashboard)
-[![](https://img.shields.io/badge/-📝%20Summarizer-000)](https://github.com/adamalston/Summarizer)
-[![](https://img.shields.io/badge/-🔬%20Overwatch-000)](https://github.com/adamalston/overwatch)
-[![](https://img.shields.io/badge/-🛰%20KubeSat-000)](https://github.com/adamalston/kubesat)
-[![](https://img.shields.io/badge/-🔊%20Voice%20Poker-000)](https://github.com/adamalston/Poker)
-[![](https://img.shields.io/badge/-🗺%20PokémonGo%20Map-000)](https://github.com/adamalston/PokemonGo-Map) -->
+[![](https://img.shields.io/badge/-⚽️%20Football%20Club%20Management%20System-000)](https://github.com/arsy786/football-club-management-system)
+[![](https://img.shields.io/badge/-🧾%20Expense%20Tracker-000)](https://github.com/arsy786/spring-boot-mongodb-rest-api)
+[![](https://img.shields.io/badge/-🔠%20Word%20Square%20API-000)](https://github.com/arsy786/word-square-api)
+[![](https://img.shields.io/badge/-⛅️%20Weather%20Dashboard-000)](https://github.com/arsy786/weather-dashboard)
+[![](https://img.shields.io/badge/-💪🏽%20Workout%20Mern%20App-000)](https://github.com/arsy786/workout-mern-app)
+[![](https://img.shields.io/badge/-📝%20Todo%20Mern%20App-000)](https://github.com/arsy786/todo-mern-app)
+[![](https://img.shields.io/badge/-📚%20Notes%20Mern%20App-000)](https://github.com/arsy786/notes-mern-app)
 
 <!-- ### Learning
 
