@@ -1,14 +1,17 @@
 <!-- <h1 align="center">Hi 👋, I'm Arsalaan</h1>
 <h3 align="center">Full-Stack Developer Driven by Continuous Integration & Continuous Delivery</h3> -->
 
-<!-- ### Hello there 👋 -->
 <!-- #### Full-Stack Developer powered by Continuous Improvement & Continuous Dedication -->
 
-<h3 align="center">Full-Stack Developer powered by Continuous Improvement & Continuous Dedication</h3>
+<!-- <h3 align="center">Full-Stack Developer powered by Continuous Improvement & Continuous Dedication</h3> -->
 
-<div style="text-align:center;">
-<img align="centre" src=code-gif.gif />
-</div>
+<h3 align="center">Full-Stack Developer driven by Continuous Integration & Continuous Delivery</h3>
+
+<!-- <div style="text-align:center;"> -->
+<img height="300px" align="right" src=code-gif.gif />
+<!-- </div> -->
+
+### About Me
 
 - 👨🏽‍💻 Software Engineer @ **[Naimuri](https://naimuri.com/)**
 - ⚙️ I use daily: `.java`, `.js`, `.html`, `.css`
@@ -55,15 +58,21 @@
 <!-- ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes) -->
 <!-- ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux) -->
 
-### Full Stack Projects
+### Learning
 
-[![](https://img.shields.io/badge/-🧬%20My%20Website-000)](https://github.com/adamalston/v2)
+![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=Next.js)
+![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
+
+### Projects
+
+<!-- [![](https://img.shields.io/badge/-🧬%20My%20Website-000)](https://github.com/adamalston/v2)
 [![](https://img.shields.io/badge/-🦠%20COVID‑19%20Dashboard-000)](https://github.com/adamalston/COVID-19-Dashboard)
 [![](https://img.shields.io/badge/-📝%20Summarizer-000)](https://github.com/adamalston/Summarizer)
 [![](https://img.shields.io/badge/-🔬%20Overwatch-000)](https://github.com/adamalston/overwatch)
 [![](https://img.shields.io/badge/-🛰%20KubeSat-000)](https://github.com/adamalston/kubesat)
 [![](https://img.shields.io/badge/-🔊%20Voice%20Poker-000)](https://github.com/adamalston/Poker)
-[![](https://img.shields.io/badge/-🗺%20PokémonGo%20Map-000)](https://github.com/adamalston/PokemonGo-Map)
+[![](https://img.shields.io/badge/-🗺%20PokémonGo%20Map-000)](https://github.com/adamalston/PokemonGo-Map) -->
 
 ### GitHub Stats
 
