@@ -2,7 +2,7 @@
 
 <!-- <img align="right" width="200px" src=code-gif.gif /> -->
 
-### About Me
+<h3>About Me</h3>
 
 - 👨🏽‍💻 Software Engineer @ **[Naimuri](https://naimuri.com/)**
 - ⚙️ I use daily: `.java`, `.js`, `.html`, `.css`
