@@ -47,10 +47,10 @@
 
 ### Projects
 
-[![](https://img.shields.io/badge/-⚽️%20FCSM%20API-000)](https://github.com/arsy786/football-club-management-system)
+[![](https://img.shields.io/badge/-⚽️%20FCMS%20API-000)](https://github.com/arsy786/football-club-management-system)
 [![](https://img.shields.io/badge/-🧾%20Expense%20Tracker%20API-000)](https://github.com/arsy786/spring-boot-mongodb-rest-api)
 [![](https://img.shields.io/badge/-🔠%20Word%20Square%20API-000)](https://github.com/arsy786/word-square-api)
-[![](https://img.shields.io/badge/-⛅️%20Weather%20Dashboard-000)](https://github.com/arsy786/weather-dashboard)
+[![](https://img.shields.io/badge/-⛅️%20Weather%20App-000)](https://github.com/arsy786/weather-dashboard)
 [![](https://img.shields.io/badge/-💪🏽%20Workout%20Tracker-000)](https://github.com/arsy786/workout-mern-app)
 [![](https://img.shields.io/badge/-📝%20Todo%20App-000)](https://github.com/arsy786/todo-mern-app)
 [![](https://img.shields.io/badge/-📚%20Notes%20App-000)](https://github.com/arsy786/notes-mern-app)
