@@ -17,8 +17,8 @@
 - ⚙️ I use daily: `.java`, `.js`, `.html`, `.css`
 - 🌍 I'm mostly active within the **Football & MMA Community**
 - 💬 `ping` me about **opportunities**
-- 📫 How to reach me **arsalaannaeem@hotmail.com**
 - 🔗 Connect with me on **[LinkedIn](https://linkedin.com/in/arsalaannaeem)**
+<!-- - 📫 How to reach me **arsalaannaeem@hotmail.com** -->
 
 ### Backend
 
@@ -54,11 +54,11 @@
 <!-- ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes) -->
 <!-- ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux) -->
 
-### Learning
+<!-- ### Learning
 
 ![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=Next.js)
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes) -->
 
 ### Projects
 
