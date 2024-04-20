@@ -11,28 +11,48 @@
 - 🔗 Connect with me on **[LinkedIn](https://linkedin.com/in/arsalaannaeem)**
 - 📫 How to reach me **arsalaannaeem@hotmail.com** -->
 
-<table>
-  <tr>
-    <td valign="top" width="100%">
+<div align="center">
 
-<h3 align="center">Full-Stack Developer driven by Continuous Improvement & Consistent Development</h3>
+<h3>Full-Stack Developer driven by Continuous Improvement & Consistent Development</h3>
 
-<!-- Responsive layout: on small screens, this table will take full width and image centers above text -->
-<table><tr><td><img src="coder-arsy786-effects-2.gif" width="200px" align="right" /></td></tr></table>
+<!-- Main container with responsive layout -->
+<div style="display: flex; flex-direction: row-reverse; justify-content: center; align-items: flex-start;">
 
-<h3>About Me</h3>
+  <!-- Image section -->
+  <img src="coder-arsy786-effects-2.gif" width="200px" style="margin-left: 20px;">
 
-- 👨🏽‍💻 Software Engineer @ **[Naimuri](https://naimuri.com/)**
-- ⚙️ I use daily: `.java`, `.js`, `.html`, `.css`
-- 🌍 I'm mostly active within the **Football & MMA Community**
-- 💬 `ping` me about **opportunities**
-- 🔗 Connect with me on **[LinkedIn](https://linkedin.com/in/arsalaannaeem)**
-  <!-- - 📫 How to reach me **arsalaannaeem@hotmail.com** -->
+  <!-- Text section -->
+  <div style="text-align: left; max-width: 60%;">
 
-      </td>
+    <h3>About Me</h3>
 
-    </tr>
-  </table>
+    - 👨🏽‍💻 Software Engineer @ **[Naimuri](https://naimuri.com/)**
+    - ⚙️ I use daily: `.java`, `.js`, `.html`, `.css`
+    - 🌍 I'm mostly active within the **Football & MMA Community**
+    - 💬 `ping` me about **opportunities**
+    - 🔗 Connect with me on **[LinkedIn](https://linkedin.com/in/arsalaannaeem)**
+    <!-- - 📫 How to reach me **arsalaannaeem@hotmail.com** -->
+
+  </div>
+</div>
+
+</div>
+
+<!-- Styles -->
+<style>
+  @media (max-width: 800px) {
+    div[style*="flex-direction: row-reverse"] {
+      flex-direction: column;
+      align-items: center;
+    }
+    img {
+      margin-left: 0; /* Remove margin from the image on small screens */
+    }
+    div[style*="text-align: left;"] {
+      max-width: 100%; /* Full width for text on small screens */
+    }
+  }
+</style>
 
 ### Backend
 
