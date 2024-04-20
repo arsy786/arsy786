@@ -1,4 +1,4 @@
-<h3 align="center">Full-Stack Developer driven by Continuous Improvement & Consistent Development</h3>
+<!-- <h3 align="center">Full-Stack Developer driven by Continuous Improvement & Consistent Development</h3>
 
 <img align="right" width="200px" src=coder-arsy786-effects-2.gif />
 
@@ -9,7 +9,30 @@
 - 🌍 I'm mostly active within the **Football & MMA Community**
 - 💬 `ping` me about **opportunities**
 - 🔗 Connect with me on **[LinkedIn](https://linkedin.com/in/arsalaannaeem)**
-<!-- - 📫 How to reach me **arsalaannaeem@hotmail.com** -->
+- 📫 How to reach me **arsalaannaeem@hotmail.com** -->
+
+<table>
+  <tr>
+    <td valign="top" width="100%">
+
+<h3 align="center">Full-Stack Developer driven by Continuous Improvement & Consistent Development</h3>
+
+<!-- Responsive layout: on small screens, this table will take full width and image centers above text -->
+<table><tr><td><img src="coder-arsy786-effects-2.gif" width="200px" align="right" /></td></tr></table>
+
+<h3>About Me</h3>
+
+- 👨🏽‍💻 Software Engineer @ **[Naimuri](https://naimuri.com/)**
+- ⚙️ I use daily: `.java`, `.js`, `.html`, `.css`
+- 🌍 I'm mostly active within the **Football & MMA Community**
+- 💬 `ping` me about **opportunities**
+- 🔗 Connect with me on **[LinkedIn](https://linkedin.com/in/arsalaannaeem)**
+  <!-- - 📫 How to reach me **arsalaannaeem@hotmail.com** -->
+
+      </td>
+
+    </tr>
+  </table>
 
 ### Backend
 
@@ -51,7 +74,7 @@
 [![](https://img.shields.io/badge/-🧾%20Expense%20Tracker%20API-000)](https://github.com/arsy786/spring-boot-mongodb-rest-api)
 [![](https://img.shields.io/badge/-🔠%20Word%20Square%20API-000)](https://github.com/arsy786/word-square-api)
 [![](https://img.shields.io/badge/-⛅️%20Weather%20App-000)](https://github.com/arsy786/weather-dashboard)
-[![](https://img.shields.io/badge/-💪🏽%20Workout%20Tracker-000)](https://github.com/arsy786/workout-mern-app)
+[![](https://img.shields.io/badge/-🏋️‍♂️%20Workout%20Tracker-000)](https://github.com/arsy786/workout-mern-app)
 [![](https://img.shields.io/badge/-📝%20Todo%20App-000)](https://github.com/arsy786/todo-mern-app)
 [![](https://img.shields.io/badge/-📚%20Notes%20App-000)](https://github.com/arsy786/notes-mern-app)
 
