@@ -1,7 +1,7 @@
 <h3 align="center">Full-Stack Developer driven by Continuous Improvement & Consistent Development</h3>
 
 <div align="center">
-<img align="center" width="200px" src="coder-arsy786-effects-2.gif" />
+<img align="center" width="150px" src="coder-arsy786-effects-2.gif" />
 </div>
 
 <h3>About Me</h3>
