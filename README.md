@@ -11,48 +11,13 @@
 - 🔗 Connect with me on **[LinkedIn](https://linkedin.com/in/arsalaannaeem)**
 - 📫 How to reach me **arsalaannaeem@hotmail.com** -->
 
-<div align="center">
+<picture>
+  <source media="(min-width: 769px)" srcset="coder-arsy786-effects-2.gif">
 
-<h3>Full-Stack Developer driven by Continuous Improvement & Consistent Development</h3>
+  <source media="(max-width: 768px)" srcset="coder-arsy786-effects-2.gif">
 
-<!-- Main container with responsive layout -->
-<div style="display: flex; flex-direction: row-reverse; justify-content: center; align-items: flex-start;">
-
-<!-- Image section -->
-<img src="coder-arsy786-effects-2.gif" width="200px" style="margin-left: 20px;">
-
-<!-- Text section -->
-<div style="text-align: left; max-width: 60%;">
-
-<h3>About Me</h3>
-
-- 👨🏽‍💻 Software Engineer @ **[Naimuri](https://naimuri.com/)**
-- ⚙️ I use daily: `.java`, `.js`, `.html`, `.css`
-- 🌍 I'm mostly active within the **Football & MMA Community**
-- 💬 `ping` me about **opportunities**
-- 🔗 Connect with me on **[LinkedIn](https://linkedin.com/in/arsalaannaeem)**
-<!-- - 📫 How to reach me **arsalaannaeem@hotmail.com** -->
-
-</div>
-</div>
-
-</div>
-
-<!-- Styles -->
-<style>
-  @media (max-width: 800px) {
-    div[style*="flex-direction: row-reverse"] {
-      flex-direction: column;
-      align-items: center;
-    }
-    img {
-      margin-left: 0; /* Remove margin from the image on small screens */
-    }
-    div[style*="text-align: left;"] {
-      max-width: 100%; /* Full width for text on small screens */
-    }
-  }
-</style>
+  <img src="coder-arsy786-effects-2.gif" width="200px">
+</picture>
 
 ### Backend
 
