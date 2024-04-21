@@ -1,16 +1,9 @@
 <h3 align="center">Full-Stack Developer driven by Continuous Improvement & Consistent Development</h3>
 
-<!-- <img align="right" width="200px" src=coder-arsy786-effects-2.gif /> -->
+<div align="center">
+<img align="center" width="200px" src="coder-arsy786-effects-2.gif" />
+</div>
 
-<picture>
-  <source media="(min-width: 769px) align=center" srcset="coder-arsy786-effects-2.gif">
-
-  <source media="(max-width: 768px) align=center" srcset="coder-arsy786-effects-2.gif">
-
-  <img align="right" src="coder-arsy786-effects-2.gif" width="200px">
-</picture>
-
-<div>
 <h3>About Me</h3>
 
 - 👨🏽‍💻 Software Engineer @ **[Naimuri](https://naimuri.com/)**
@@ -18,8 +11,7 @@
 - 🌍 I'm mostly active within the **Football & MMA Community**
 - 💬 `ping` me about **opportunities**
 - 🔗 Connect with me on **[LinkedIn](https://linkedin.com/in/arsalaannaeem)**
-  <!-- - 📫 How to reach me **arsalaannaeem@hotmail.com** -->
-  </div>
+<!-- - 📫 How to reach me **arsalaannaeem@hotmail.com** -->
 
 ### Backend
 
