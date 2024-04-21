@@ -18,22 +18,22 @@
 <!-- Main container with responsive layout -->
 <div style="display: flex; flex-direction: row-reverse; justify-content: center; align-items: flex-start;">
 
-  <!-- Image section -->
-  <img src="coder-arsy786-effects-2.gif" width="200px" style="margin-left: 20px;">
+<!-- Image section -->
+<img src="coder-arsy786-effects-2.gif" width="200px" style="margin-left: 20px;">
 
-  <!-- Text section -->
-  <div style="text-align: left; max-width: 60%;">
+<!-- Text section -->
+<div style="text-align: left; max-width: 60%;">
 
-    <h3>About Me</h3>
+<h3>About Me</h3>
 
-    - 👨🏽‍💻 Software Engineer @ **[Naimuri](https://naimuri.com/)**
-    - ⚙️ I use daily: `.java`, `.js`, `.html`, `.css`
-    - 🌍 I'm mostly active within the **Football & MMA Community**
-    - 💬 `ping` me about **opportunities**
-    - 🔗 Connect with me on **[LinkedIn](https://linkedin.com/in/arsalaannaeem)**
-    <!-- - 📫 How to reach me **arsalaannaeem@hotmail.com** -->
+- 👨🏽‍💻 Software Engineer @ **[Naimuri](https://naimuri.com/)**
+- ⚙️ I use daily: `.java`, `.js`, `.html`, `.css`
+- 🌍 I'm mostly active within the **Football & MMA Community**
+- 💬 `ping` me about **opportunities**
+- 🔗 Connect with me on **[LinkedIn](https://linkedin.com/in/arsalaannaeem)**
+<!-- - 📫 How to reach me **arsalaannaeem@hotmail.com** -->
 
-  </div>
+</div>
 </div>
 
 </div>
