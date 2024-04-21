@@ -10,6 +10,7 @@
   <img align="right" src="coder-arsy786-effects-2.gif" width="200px">
 </picture>
 
+<div>
 <h3>About Me</h3>
 
 - 👨🏽‍💻 Software Engineer @ **[Naimuri](https://naimuri.com/)**
@@ -17,7 +18,8 @@
 - 🌍 I'm mostly active within the **Football & MMA Community**
 - 💬 `ping` me about **opportunities**
 - 🔗 Connect with me on **[LinkedIn](https://linkedin.com/in/arsalaannaeem)**
-<!-- - 📫 How to reach me **arsalaannaeem@hotmail.com** -->
+  <!-- - 📫 How to reach me **arsalaannaeem@hotmail.com** -->
+  </div>
 
 ### Backend
 
