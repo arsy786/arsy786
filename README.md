@@ -7,7 +7,7 @@
 <h3>About Me</h3>
 
 - 👨🏽‍💻 Software Engineer @ **[Naimuri](https://naimuri.com/)**
-- ⚙️ I use daily: `.java`, `.js`, `.html`, `.css`
+- ⚙️ I use daily: `.java`, `.jsx`, `.js`, `.html`, `.css`
 - 🌍 I'm mostly active within the **Football & MMA Community**
 - 💬 `ping` me about **opportunities**
 - 🔗 Connect with me on **[LinkedIn](https://linkedin.com/in/arsalaannaeem)**
@@ -19,6 +19,7 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
 ![Express.js](https://img.shields.io/badge/-Express.js-000?&logo=Express)
+![NestJS](https://img.shields.io/badge/-NestJS-000?logo=nestjs&logoColor=%23E0234E)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?logo=mongodb)
 
@@ -29,6 +30,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
+![NextJS](https://img.shields.io/badge/-NextJS-000?&logo=nextdotjs)
 ![Redux Toolkit](https://img.shields.io/badge/-Redux%20Toolkit-000?&logo=Redux&logoColor=764ABC)
 ![Material-UI](https://img.shields.io/badge/-Material--UI-000?&logo=mui)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-000?&logo=Tailwind%20CSS)
@@ -40,10 +42,10 @@
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
 ![GitLab](https://img.shields.io/badge/-GitLab-000?&logo=GitLab)
+![AWS](https://img.shields.io/badge/-AWS-000?&logo=amazonwebservices&logoColor=F90)
 ![Jira](https://img.shields.io/badge/-Jira-000?&logo=Jira&logoColor=0052CC)
 ![Confluence](https://img.shields.io/badge/-Confluence-000?&logo=Confluence&logoColor=0052CC)
 
-<!-- ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90) -->
 <!-- ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes) -->
 <!-- ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux) -->
 
