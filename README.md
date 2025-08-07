@@ -6,8 +6,8 @@
 
 <h3>About Me</h3>
 
-- 👨🏽‍💻 Software Engineer @ **[Naimuri](https://naimuri.com/)**
-- ⚙️ I use daily: `.java`, `.jsx`, `.js`, `.html`, `.css`
+- 👨🏽‍💻 Software Engineer @ **[ConnexAI](https://connex.ai/uk/)**
+- ⚙️ I use daily: `.java`, `.tsx`, `.jsx`, `.ts`, `.js`, `.html`, `.css`
 - 🌍 I'm mostly active within the **Football & MMA Community**
 - 💬 `ping` me about **opportunities**
 - 🔗 Connect with me on **[LinkedIn](https://linkedin.com/in/arsalaannaeem)**
@@ -61,7 +61,6 @@
 
 <!-- ### Learning
 
-![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=Next.js)
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes) -->
 
